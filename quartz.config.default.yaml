@@ -140,6 +140,8 @@ plugins:
     options:
       globalGraph:
         showTags: false
+        repelForce: 2.0
+        linkDistance: 65
     layout:
       position: right
       priority: 10
